@@ -1,0 +1,50 @@
+.App{
+    background-image: linear-gradient(lightblue,pink,lightyellow);
+    height:50vh;
+}
+.heading{
+    text-shadow: 3px 3px 3px aqua;
+}
+.btn1{
+    height: 50px;
+    width: 270px;
+    border-radius: 50px;
+    background-color: lightblue;
+    position: relative;
+    top: 100px;
+    left: -50px;
+
+}
+.btn2{
+    height: 50px;
+    width: 270px;
+    border-radius: 50px;
+    background-color: lightblue;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+.Functional{
+    height: 300px;
+    width: 500px;
+    background-color: aqua;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: relative;
+    top: 10rem;
+    left: 150px;
+}
+.Para1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.Class{
+    height: 300px;
+    width: 500px;
+    background-color: purple;
+    border: 5px solid black;
+    border-radius: 10px;
+    position: absolute;
+    top:295px;
+    left:750px;
+}
